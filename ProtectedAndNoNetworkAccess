@@ -1,0 +1,4 @@
+<Configuration>
+    <Networking>Disable</Networking>
+    <ProtectedClient>Enable</ProtectedClient>
+</Configuration>
