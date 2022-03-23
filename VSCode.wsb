@@ -1,0 +1,16 @@
+<Configuration>
+    <MappedFolders>
+        <MappedFolder>
+            <HostFolder>C:\SandboxScripts</HostFolder>
+            <ReadOnly>true</ReadOnly>
+        </MappedFolder>
+        <MappedFolder>
+            <HostFolder>C:\ProjectRepo</HostFolder>
+            <SandboxFolder>C:\Users\WDAGUtilityAccount\ProjectRepo</SandboxFolder>
+            <ReadOnly>false</ReadOnly>
+        </MappedFolder>
+    </MappedFolders>
+    <LogonCommand>
+        <Command>C:\Users\WDAGUtilityAccount\Desktop\SandboxScripts\VSCodeInstall.cmd</Command>
+    </LogonCommand>
+</Configuration>
