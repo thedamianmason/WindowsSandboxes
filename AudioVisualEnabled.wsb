@@ -1,0 +1,6 @@
+<Configuration>
+    <vGPU>Enable</vGPU>
+    <AudioInput>Enable</AudioInput>
+    <VideoInput>Enable</VideoInput>
+    <ProtectedClient>Disable</ProtectedClient>
+</Configuration>
